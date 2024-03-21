@@ -1,0 +1,1 @@
+import{_,o as a,c as t,a as e}from"./app-HBA039kk.js";const c={},s=e("h1",{id:"音频与视频api",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#音频与视频api"},[e("span",null,"音频与视频API")])],-1),n=[s];function o(r,l){return a(),t("div",null,n)}const d=_(c,[["render",o],["__file","音频与视频API.html.vue"]]);export{d as default};

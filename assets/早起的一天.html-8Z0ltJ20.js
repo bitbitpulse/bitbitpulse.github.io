@@ -1,0 +1,1 @@
+import{_,o as t,c as a,a as e}from"./app-HBA039kk.js";const c={},s=e("h1",{id:"早起的一天",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#早起的一天"},[e("span",null,"早起的一天")])],-1),n=[s];function o(r,l){return t(),a("div",null,n)}const h=_(c,[["render",o],["__file","早起的一天.html.vue"]]);export{h as default};

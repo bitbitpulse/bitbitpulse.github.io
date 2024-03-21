@@ -1,0 +1,1 @@
+import{_,o as t,c as a,a as e}from"./app-HBA039kk.js";const c={},s=e("h1",{id:"桥接模式",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#桥接模式"},[e("span",null,"桥接模式")])],-1),n=[s];function o(r,l){return t(),a("div",null,n)}const h=_(c,[["render",o],["__file","桥接模式.html.vue"]]);export{h as default};

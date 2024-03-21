@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /resume/
+User-agent:*
+Disallow:
+
+Sitemap: https://bitbitpulse.github.io/sitemap.xml

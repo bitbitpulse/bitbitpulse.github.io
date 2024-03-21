@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as n,a as e}from"./app-HBA039kk.js";const a={},c=e("h1",{id:"console-api",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#console-api"},[e("span",null,"Console API")])],-1),t=[c];function l(_,r){return s(),n("div",null,t)}const d=o(a,[["render",l],["__file","Console API.html.vue"]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_,o as t,c as a,a as e}from"./app-HBA039kk.js";const c={},s=e("h1",{id:"谷粒商城-商品微服务开发",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#谷粒商城-商品微服务开发"},[e("span",null,"谷粒商城-商品微服务开发")])],-1),n=[s];function o(r,l){return t(),a("div",null,n)}const h=_(c,[["render",o],["__file","商品微服务开发.html.vue"]]);export{h as default};

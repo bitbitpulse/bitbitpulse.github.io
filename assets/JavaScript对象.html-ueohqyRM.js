@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a}from"./app-HBA039kk.js";const r={},s=a("h1",{id:"javascript对象",tabindex:"-1"},[a("a",{class:"header-anchor",href:"#javascript对象"},[a("span",null,"JavaScript对象")])],-1),_=[s];function n(o,i){return t(),c("div",null,_)}const d=e(r,[["render",n],["__file","JavaScript对象.html.vue"]]);export{d as default};

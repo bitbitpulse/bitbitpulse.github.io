@@ -1,0 +1,1 @@
+import{_ as o,r as t,o as c,c as n,b as s}from"./app-HBA039kk.js";const a={};function r(_,l){const e=t("catalog");return c(),n("div",null,[s(e,{"link-prefix":"/posts/web/css/"})])}const f=o(a,[["render",r],["__file","index.html.vue"]]);export{f as default};

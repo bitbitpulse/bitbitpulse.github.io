@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,a as o}from"./app-HBA039kk.js";const _={},r=o("h1",{id:"springboot集成邮件服务",tabindex:"-1"},[o("a",{class:"header-anchor",href:"#springboot集成邮件服务"},[o("span",null,"SpringBoot集成邮件服务")])],-1),s=[r];function a(c,i){return t(),n("div",null,s)}const d=e(_,[["render",a],["__file","SpringBoot集成邮件服务.html.vue"]]);export{d as default};

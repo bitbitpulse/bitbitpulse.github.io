@@ -1,0 +1,2 @@
+import{_ as a,o as s,c as e,d as t}from"./app-HBA039kk.js";const n={},c=t(`<h1 id="windows-bat脚本编写" tabindex="-1"><a class="header-anchor" href="#windows-bat脚本编写"><span>Windows bat脚本编写</span></a></h1><p>bat脚本执行完成后, 保留cmd窗口</p><div class="language-bash" data-ext="sh" data-title="sh"><pre class="language-bash"><code>cmd /k <span class="token function">dir</span>
+</code></pre></div>`,3),o=[c];function d(_,i){return s(),e("div",null,o)}const l=a(n,[["render",d],["__file","Windows bat脚本编程.html.vue"]]);export{l as default};

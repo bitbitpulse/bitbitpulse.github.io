@@ -1,0 +1,1 @@
+import{_ as n,o as e,c as t,a as o}from"./app-HBA039kk.js";const r={},s=o("h1",{id:"springboot集成mongodb",tabindex:"-1"},[o("a",{class:"header-anchor",href:"#springboot集成mongodb"},[o("span",null,"SpringBoot集成MongoDB")])],-1),a=[s];function c(_,i){return e(),t("div",null,a)}const l=n(r,[["render",c],["__file","SpringBoot集成MongoDB.html.vue"]]);export{l as default};

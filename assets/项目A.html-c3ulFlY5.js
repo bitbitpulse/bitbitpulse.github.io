@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,a as e}from"./app-HBA039kk.js";const s={},_=e("h1",{id:"项目a",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#项目a"},[e("span",null,"项目A")])],-1),n=[_];function o(r,l){return t(),c("div",null,n)}const h=a(s,[["render",o],["__file","项目A.html.vue"]]);export{h as default};

@@ -1,0 +1,1 @@
+import{_ as o,r as n,o as t,c,b as a}from"./app-HBA039kk.js";const r={};function s(l,_){const e=n("catalog");return t(),c("div",null,[a(e,{"link-prefix":"/posts/java/springcloud/"})])}const p=o(r,[["render",s],["__file","index.html.vue"]]);export{p as default};

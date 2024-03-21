@@ -1,0 +1,1 @@
+import{_ as s,o as c,c as t,a as e}from"./app-HBA039kk.js";const _={},a=e("h1",{id:"css选择器",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#css选择器"},[e("span",null,"CSS选择器")])],-1),n=[a];function o(r,l){return c(),t("div",null,n)}const h=s(_,[["render",o],["__file","CSS选择器.html.vue"]]);export{h as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e}from"./app-HBA039kk.js";const s={},_=e("h1",{id:"github入门",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#github入门"},[e("span",null,"github入门")])],-1),n=[_];function o(r,h){return a(),c("div",null,n)}const l=t(s,[["render",o],["__file","github入门.html.vue"]]);export{l as default};

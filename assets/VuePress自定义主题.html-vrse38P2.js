@@ -1,0 +1,1 @@
+import{_ as s,o as _,c as r,a as e}from"./app-HBA039kk.js";const t={},a=e("h1",{id:"vuepress自定义主题",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#vuepress自定义主题"},[e("span",null,"VuePress自定义主题")])],-1),c=[a];function n(o,l){return _(),r("div",null,c)}const d=s(t,[["render",n],["__file","VuePress自定义主题.html.vue"]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a}from"./app-HBA039kk.js";const r={},s=a("h1",{id:"javascript事件模型",tabindex:"-1"},[a("a",{class:"header-anchor",href:"#javascript事件模型"},[a("span",null,"JavaScript事件模型")])],-1),_=[s];function n(o,i){return t(),c("div",null,_)}const d=e(r,[["render",n],["__file","JavaScript事件模型.html.vue"]]);export{d as default};

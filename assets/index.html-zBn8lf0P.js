@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as c,c as n,b as r}from"./app-HBA039kk.js";const a={};function s(_,l){const e=o("catalog");return c(),n("div",null,[r(e,{"link-prefix":"/posts/coder/architecture-patterns/"})])}const p=t(a,[["render",s],["__file","index.html.vue"]]);export{p as default};

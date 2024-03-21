@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,a as o}from"./app-HBA039kk.js";const _={},r=o("h1",{id:"springboot国际化支持",tabindex:"-1"},[o("a",{class:"header-anchor",href:"#springboot国际化支持"},[o("span",null,"SpringBoot国际化支持")])],-1),s=[r];function a(c,i){return t(),n("div",null,s)}const d=e(_,[["render",a],["__file","SpringBoot国际化支持.html.vue"]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as _,c as n,a as e}from"./app-HBA039kk.js";const s={},a=e("h1",{id:"享元模式",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#享元模式"},[e("span",null,"享元模式")])],-1),c=e("p",null,"享元模式（Flyweight Pattern），是一种对象结构型模式。",-1),o=[a,c];function r(l,d){return _(),n("div",null,o)}const i=t(s,[["render",r],["__file","享元模式.html.vue"]]);export{i as default};

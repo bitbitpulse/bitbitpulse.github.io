@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as o,a as e}from"./app-HBA039kk.js";const a={},r=e("h1",{id:"history-api",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#history-api"},[e("span",null,"History API")])],-1),c=[r];function n(_,i){return s(),o("div",null,c)}const h=t(a,[["render",n],["__file","History API.html.vue"]]);export{h as default};

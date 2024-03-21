@@ -1,0 +1,1 @@
+import{_ as l,o as r,c as t,a as e}from"./app-HBA039kk.js";const a={},c=e("h1",{id:"fidller",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#fidller"},[e("span",null,"Fidller")])],-1),s=[c];function n(o,_){return r(),t("div",null,s)}const i=l(a,[["render",n],["__file","fidller.html.vue"]]);export{i as default};

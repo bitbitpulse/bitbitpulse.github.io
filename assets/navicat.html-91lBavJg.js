@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a}from"./app-HBA039kk.js";const n={},s=a("h1",{id:"navicat",tabindex:"-1"},[a("a",{class:"header-anchor",href:"#navicat"},[a("span",null,"Navicat")])],-1),o=[s];function _(r,i){return t(),c("div",null,o)}const d=e(n,[["render",_],["__file","navicat.html.vue"]]);export{d as default};

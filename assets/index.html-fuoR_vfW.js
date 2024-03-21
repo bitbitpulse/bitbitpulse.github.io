@@ -1,0 +1,1 @@
+import{_ as o,r as n,o as t,c as a,b as c}from"./app-HBA039kk.js";const r={};function s(_,l){const e=n("catalog");return t(),a("div",null,[c(e,{"link-prefix":"/posts/java/springframework/"})])}const f=o(r,[["render",s],["__file","index.html.vue"]]);export{f as default};

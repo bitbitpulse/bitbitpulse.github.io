@@ -1,0 +1,1 @@
+import{_ as t,o,c as s,a as e}from"./app-HBA039kk.js";const a={},n=e("h1",{id:"springboot集成resttemplate",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#springboot集成resttemplate"},[e("span",null,"SpringBoot集成RestTemplate")])],-1),r=[n];function c(_,l){return o(),s("div",null,r)}const i=t(a,[["render",c],["__file","SpringBoot集成RestTemplate.html.vue"]]);export{i as default};

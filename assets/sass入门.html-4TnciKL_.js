@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,a as s}from"./app-HBA039kk.js";const c={},_=s("h1",{id:"sass入门",tabindex:"-1"},[s("a",{class:"header-anchor",href:"#sass入门"},[s("span",null,"sass入门")])],-1),n=[_];function o(r,l){return a(),t("div",null,n)}const h=e(c,[["render",o],["__file","sass入门.html.vue"]]);export{h as default};

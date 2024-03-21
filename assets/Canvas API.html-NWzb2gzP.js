@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as n,a}from"./app-HBA039kk.js";const c={},t=a("h1",{id:"canvas-api",tabindex:"-1"},[a("a",{class:"header-anchor",href:"#canvas-api"},[a("span",null,"Canvas API")])],-1),o=[t];function _(r,l){return s(),n("div",null,o)}const d=e(c,[["render",_],["__file","Canvas API.html.vue"]]);export{d as default};

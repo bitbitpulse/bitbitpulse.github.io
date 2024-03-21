@@ -1,0 +1,1 @@
+import{_ as l,o as s,c as t,a as e}from"./app-HBA039kk.js";const a={},c=e("h1",{id:"xshell",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#xshell"},[e("span",null,"XShell")])],-1),n=[c];function o(_,r){return s(),t("div",null,n)}const d=l(a,[["render",o],["__file","XShell.html.vue"]]);export{d as default};

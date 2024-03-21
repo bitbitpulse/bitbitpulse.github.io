@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as s,a as e}from"./app-HBA039kk.js";const n={},o=e("h1",{id:"postman",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#postman"},[e("span",null,"Postman")])],-1),c=[o];function _(r,l){return a(),s("div",null,c)}const d=t(n,[["render",_],["__file","postman.html.vue"]]);export{d as default};

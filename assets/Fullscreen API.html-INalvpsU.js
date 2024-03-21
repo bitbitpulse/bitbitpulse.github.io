@@ -1,0 +1,1 @@
+import{_ as c,o as s,c as l,a as e}from"./app-HBA039kk.js";const n={},a=e("h1",{id:"fullscreen-api",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#fullscreen-api"},[e("span",null,"Fullscreen API")])],-1),r=[a];function t(o,_){return s(),l("div",null,r)}const u=c(n,[["render",t],["__file","Fullscreen API.html.vue"]]);export{u as default};

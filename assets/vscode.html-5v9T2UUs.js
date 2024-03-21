@@ -1,0 +1,1 @@
+import{_ as c,o,c as s,a as e}from"./app-HBA039kk.js";const t={},a=e("h1",{id:"vscode",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#vscode"},[e("span",null,"VSCode")])],-1),n=[a];function _(d,r){return o(),s("div",null,n)}const h=c(t,[["render",_],["__file","vscode.html.vue"]]);export{h as default};

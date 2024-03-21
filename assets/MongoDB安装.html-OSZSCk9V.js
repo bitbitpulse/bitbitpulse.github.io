@@ -1,0 +1,1 @@
+import{_ as e,o as n,c as t,a as o}from"./app-HBA039kk.js";const a={},c=o("h1",{id:"mongodb安装",tabindex:"-1"},[o("a",{class:"header-anchor",href:"#mongodb安装"},[o("span",null,"MongoDB安装")])],-1),s=[c];function _(r,d){return n(),t("div",null,s)}const h=e(a,[["render",_],["__file","MongoDB安装.html.vue"]]);export{h as default};
